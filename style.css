@@ -44,5 +44,24 @@ img{
 
  @media only screen and (max-width: 600px) {
        
-      }
-      
+}
+
+#felhasznalonev{
+    background-color: white;
+}
+
+footer{
+    display: block;
+    margin: auto;
+}
+
+a{
+    background-color: blueviolet;
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: yellow;
+    color: blueviolet;
+}
